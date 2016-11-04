@@ -1,5 +1,3 @@
-# Preliminary release; may contain bugs and bad documentations
-
 # Learning without Forgetting
 
 Created by [Zhizhong Li](http://zli115.web.engr.illinois.edu/) and [Derek Hoiem](http://dhoiem.cs.illinois.edu/) at University of Illinois, Urbana Champaign.
