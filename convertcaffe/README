@@ -1,0 +1,4 @@
+Caffe is changing format quickly and MatConvNet does not catch up. Here is a hacky version of translating the caffe model to matconvnet.
+Use genmat.sh to get the structure of the model.
+Use export_matconvnet.m to transfer the weights.
+Don't forget to change all the paths, file names, etc.
