@@ -6,6 +6,8 @@ Project [webpage](http://zli115.web.engr.illinois.edu/learning-without-forgettin
 
 Please contact [Zhizhong Li](http://zli115.web.engr.illinois.edu/) for any questions regarding this repository.
 
+Note: this repository is implemented using MatConvNet. For a PyTorch version, my labmate Arun Mallya's [PackNet](https://github.com/arunmallya/packnet) repository has an [LwF implementation](https://github.com/arunmallya/packnet/blob/master/src/lwf.py). Please cite both papers if you decide to use his code instead.
+
 ## Introduction
 
 Learning without Forgetting aims at adding new capabilities (new tasks) to an existing Convolutional Neural Network, sharing representation with the original capabilities (old tasks), while allowing for adjusting the shared representation to adapt for both tasks without using the original training data.
